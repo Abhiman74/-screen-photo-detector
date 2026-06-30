@@ -5,6 +5,13 @@ An AI-powered computer vision system that detects whether an image is a **real-w
 The project includes a complete end-to-end pipeline, from dataset collection and model training to deployment as a Flask web application with live webcam support.
 
 ---
+# Demo
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a173a61d-2184-4786-8567-1cdb8a884c8e" />
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/39108d93-db7f-4c78-8417-6fa8c02bf79a" />
+
+---
 
 # 🚀 Features
 
